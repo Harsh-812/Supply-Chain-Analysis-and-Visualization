@@ -1,10 +1,10 @@
 # Data Insights into Supply Chain Efficiency
 
-## Overview
+### Overview
 
 In the ever-evolving landscape of e-commerce, the performance and efficiency of supply chain logistics are pivotal. This project aims to dissect and understand the complexities of sales data from DataCo Global, an established online retailer. Through extensive analysis, we will uncover patterns, behaviors, and opportunities for enhancement in supply chain operations.
 
-## Objectives
+### Objectives
 
 - **Trend Analysis**: Investigate sales data to spot prevalent trends and their implications on the market and business strategy.
 - **Customer Insights**: Examine customer purchasing behaviors and segment dynamics to align with and optimize marketing strategies.
@@ -12,7 +12,7 @@ In the ever-evolving landscape of e-commerce, the performance and efficiency of 
 - **Delivery Performance**: Assess delivery performance metrics across various shipping modes to identify potential improvements.
 <hr>
 
-## Data
+### Data Source
 
 [Supply Chain Dataset - Data.Co](https://data.mendeley.com/datasets/8gx2fvg2k6/5)
 <hr>

@@ -25,16 +25,6 @@ In the ever-evolving landscape of e-commerce, the performance and efficiency of 
 * Numpy: Python library used for Mathematical operations.
 <hr>
 
-## Getting Started
-
-1. **Clone the repository**
-
-   ```
-   git clone https://github.com/yourusername/dataco-global-analysis.git
-   ```
-
-2. **Install dependencies**
-
    Navigate to the project directory and run:
 
    ```

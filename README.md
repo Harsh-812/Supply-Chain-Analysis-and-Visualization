@@ -25,8 +25,4 @@ In the ever-evolving landscape of e-commerce, the performance and efficiency of 
 * Numpy: Python library used for Mathematical operations.
 <hr>
 
-   Navigate to the project directory and run:
-
-   ```
-   pip install -r requirements.txt
-   ```
+ 

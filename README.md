@@ -12,6 +12,11 @@ In the ever-evolving landscape of e-commerce, the performance and efficiency of 
 - **Delivery Performance**: Assess delivery performance metrics across various shipping modes to identify potential improvements.
 <hr>
 
+
+### Tableau Dashboard
+<img width="1390" alt="image" src="https://github.com/user-attachments/assets/10ecd74e-e4b9-4869-bfea-3a2778de27cc">
+
+
 ### Data Source
 
 [Supply Chain Dataset - Data.Co](https://data.mendeley.com/datasets/8gx2fvg2k6/5)

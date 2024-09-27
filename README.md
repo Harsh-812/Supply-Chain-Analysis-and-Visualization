@@ -14,6 +14,8 @@ In the ever-evolving landscape of e-commerce, the performance and efficiency of 
 
 
 ### Tableau Dashboard
+
+[Click to view the Interactive Dashboard](https://public.tableau.com/app/profile/harshitha.chandrashekar/viz/DataCo_SupplyChainOperations_17274534809890/Dashboard1) 
 <img width="1390" alt="image" src="https://github.com/user-attachments/assets/10ecd74e-e4b9-4869-bfea-3a2778de27cc">
 
 

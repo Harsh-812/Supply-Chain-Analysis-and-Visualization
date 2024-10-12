@@ -12,7 +12,13 @@ This project aims to dissect and understand the complexities of sales data from 
 - **Delivery Performance**: Assess delivery performance metrics across various shipping modes to identify potential improvements.
 <hr>
 
+### Plotly Visualizations
+
+
 ![ScreenRecording2024-10-12at2 42 19PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e90cc95f-2586-4dd8-af97-ac91cca873cc)
+
+
+![ScreenRecording2024-10-12at11 43 59AM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2c9d9e45-2a97-44f1-adc5-8a18932b2013)
 
 
 ![ScreenRecording2024-10-12at2 40 04PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4bee579a-fbc6-428d-945d-b5548d97a940)

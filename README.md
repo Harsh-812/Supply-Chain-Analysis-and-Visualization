@@ -2,7 +2,7 @@
 
 ### Overview
 
-In the ever-evolving landscape of e-commerce, the performance and efficiency of supply chain logistics are pivotal. This project aims to dissect and understand the complexities of sales data from DataCo Global, an established online retailer. Through extensive analysis, we will uncover patterns, behaviors, and opportunities for enhancement in supply chain operations.
+This project aims to dissect and understand the complexities of sales data from DataCo Global, an established online retailer. Through extensive analysis, we will uncover patterns, behaviors, and opportunities for enhancement in supply chain operations.
 
 ### Objectives
 

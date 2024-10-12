@@ -15,6 +15,10 @@ This project aims to dissect and understand the complexities of sales data from 
 ![ScreenRecording2024-10-12at2 42 19PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e90cc95f-2586-4dd8-af97-ac91cca873cc)
 
 
+![ScreenRecording2024-10-12at2 40 04PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4bee579a-fbc6-428d-945d-b5548d97a940)
+
+
+
 ### Tableau Dashboard
 
 [Click to view the Interactive Dashboard in Tableau Public](https://public.tableau.com/app/profile/harshitha.chandrashekar/viz/DataCo_SupplyChainOperations_17274534809890/Dashboard1) 
